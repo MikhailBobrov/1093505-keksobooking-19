@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Michael Bobrov](https://up.htmlacademy.ru/javascript/19/user/1093505).
-* Наставник: `Неизвестно`.
+* Наставник: Артем Рудов.
 
 ---
 
